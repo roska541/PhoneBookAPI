@@ -1,6 +1,6 @@
 ## Phone Book API
 
-This a simple phone book api to get, store, update and delete a contact. 
+This a simple phone book api to get, store, update and delete a contact, with a simple call log history which contains the user making the call "contact_from_id" and the user reciving "contact_to_id" 
 
 ### Set Up
 
