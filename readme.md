@@ -5,6 +5,7 @@ This a simple phone book api to get, store, update and delete a contact.
 ### Set Up
 
 * Clone the repo to your local environment
+* run ```composer update```
 * Update your .env file to point to your database
 * Then run ```php artisan config:clear``` to reflect the new database
 * run ```php artisan migrate```
